@@ -1,0 +1,43 @@
+ Basic Weather Report |
+
+[TO] Box 1 - Recipient:
+[FR] Box 2 - Sender:
+? Box 3 - Precedence:
+@R Routine
+@P Priority
+
+[ST] Box 4 - State:
+[CT] Box 5 - City/Location:
+[GR] Box 6 - Grid Square:
+[DT] Box 7 - Date/Time (UTC):
+
+[TP] Box 8 - Temperature (°F):
+[HM] Box 9 - Humidity (%):
+[WD] Box 10 - Wind (Speed/Direction):
+[GS] Box 11 - Gusts (mph):
+
+? Box-12 Sky Condition:
+@CLR Clear
+@PAR Partly Cloudy
+@OVC Overcast
+
+[VS] Box 13 - Visibility (mi):
+? Box-4 Precipitation: 
+@NON None
+@RAN Rain
+@SNW Snow
+@SLT Sleet
+@HAL Hail
+
+[RA] Box 15 - Precip Amount (last hrs):
+
+?Box 16 - Alerts/Warnings:
+@NON None
+@ADV Advisory
+@WRN Warning
+@WCH Watch
+
+[IM] Box 17 - Impacts Observed:
+(Roads / Power / Flooding / Damage)
+
+[NA] Box 18 - Narrative:

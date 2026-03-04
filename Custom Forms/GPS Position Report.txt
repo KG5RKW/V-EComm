@@ -1,0 +1,20 @@
+GPS Position Report | 
+
+[TO] Box 1 - Recipient:
+[FR] Box 2 - Sender:
+
+[DT] Box 3 - Date/Time:
+
+[LA] Box 4 - Latitude:
+[LO] Box 5 - Longitude:
+
+[GR] Box 6 - Grid (Optional):
+[AL] Box 7 - Altitude (Optional):
+
+? Box 8 - Position Status:
+@M Mobile
+@S Stationary
+@B Base
+@U Unknown
+
+[NA] Box 9 - Comments / Details:

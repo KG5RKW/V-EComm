@@ -1,0 +1,89 @@
+V-EmComms Control Panel — REQUIREMENTS
+
+SYSTEM REQUIREMENTS
+-------------------
+Operating System:
+- Windows 10 or Windows 11 (Recommended)
+- Linux/macOS supported with Python installed
+
+Python Version:
+- Python 3.10 – 3.12
+
+During installation:
+- Enable "Add Python to PATH"
+
+DEPENDENCIES
+------------
+Install required package:
+
+    pip install pywebview
+
+(Standard libraries already included: tkinter, pathlib, datetime, re)
+
+FOLDER CONFIGURATION (SET IN APP SETTINGS)
+------------------------------------------
+Operators must configure:
+
+- VarAC_templates.ini path
+- BBS storage folder
+- Custom Forms folder (.txt forms)
+- Winlink Templates folder (.html)
+- Winlink Save folder
+- Operator Callsign
+
+Configuration saved automatically to:
+    V_emcomm.cfg
+
+OPTIONAL SOFTWARE (RECOMMENDED)
+-------------------------------
+VarAC:
+- Template integration
+- Digital messaging workflows
+
+Winlink Express:
+- HTML form creation
+- ICS message compatibility
+
+FILE TYPES USED
+---------------
+.txt   → Message output / BBS traffic
+.ini   → VarAC templates
+.html  → Winlink forms
+.cfg   → App configuration
+
+HARDWARE REQUIREMENTS
+---------------------
+- Modern PC
+- 4GB RAM minimum
+- Internet optional (offline capable)
+- HF digital station (optional)
+
+DISTRIBUTION OPTIONS
+--------------------
+
+Python Version:
+Share:
+    V-EmComms.py
+    REQUIREMENTS.txt
+    README.txt
+    /forms/
+
+EXE Version (Recommended):
+Create using:
+
+    pip install pyinstaller
+    pyinstaller --onefile --windowed V-EmComms.py
+
+Then distribute:
+    dist/V-EmComms.exe
+
+OPERATOR QUICK SETUP
+--------------------
+1. Launch application
+2. Open Settings tab
+3. Set required folders
+4. Enter callsign
+5. Save settings
+6. Begin operations
+
+END OF REQUIREMENTS

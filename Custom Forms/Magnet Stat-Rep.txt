@@ -1,0 +1,42 @@
+MAGNET STAT-REP|      
+visit www.magnethf.com
+
+? LOCAL STATUS
+@1 Green / Stable
+@2 Yellow / Limited Disruption
+@3 Red / Major Disruption
+
+? STATION TYPE
+@1 Base / Home
+@2 Mobile
+@3 Portable / Field
+
+? GRID POWER
+@1 Present
+@2 Outage / Lost
+@3 Unstable / Sporadic
+
+? COMMUNICATIONS
+@1 Normal
+@2 Limited / Unreliable
+@3 Down / Out
+
+? MOBILITY / TRANSPORT
+@1 Clear
+@2 Restricted
+@3 Blocked
+
+[NA] Narrative:
+
+. LOCAL STATUS (Overall Situation Assessment) 1 (Green / Stable) No significant local issues, 2 (Yellow / Limited Disruption) situation manageable but trending worse or uncertain, 3 (Red / Major Disruption) severe or ongoing impact to normal life Examples: extended outages, civil unrest, evacuation, infrastructure failure
+
+
+. STATION TYPE (Operating Posture) 1 (Base / Home) fixed station at residence or permanent location, 2 (Mobile) operating from a vehicle (car, truck, RV), 3 (Portable / Field) temporary or improvised setup (go-kit, battery/solar)
+
+
+. GRID POWER (Electrical Status)1 (Present) commercial grid power available and stable Station likely has full capability, 2 (Outage / Lost) grid power completely unavailable 3 (Unstable / Sporadic) power present but unreliable (brownouts, cycling, rolling blackouts) Equipment resets and comms instability possible
+
+. COMMUNICATIONS (Non-Amateur Infrastructure)1 (Normal Phones) cellular data, and internet functioning normally, 2 (Limited / Unreliable) intermittent cellular or internet service congestion, outages, or degraded quality, 3 (Down / Out) phones and internet unavailable or unusable
+
+
+. MOBILITY / TRANSPORT (Movement Capability) 1 (Clear) roads open and usable Fuel available, 2 (Restricted) partial road closures, checkpoints, weather hazards, fuel constraints, 3 (Blocked) roads impassable or movement unsafe Examples: flooding, ice, debris, curfews, civil disorder 

@@ -1,0 +1,41 @@
+Severe Weather Report | 
+
+[TO] Box 1 - Recipient:
+[FR] Box 2 - Sender:
+[DT] Box 3 - Report Date/Time:
+
+? Box 4 - Report Status:
+@N New
+@O Ongoing
+@R Resolved
+@U Unknown
+
+[ST] Box 5 - State:
+[CT] Box 6 - County:
+[CY] Box 7 - City:
+[GR] Box 8 - Grid:
+[CO] Box 9 - Coordinates (Lat/Lon):
+
+? Box 10 - Event Type:
+@FL Flood
+@HL Hail
+@HW High Wind
+@TO Tornado/Funnel
+@WD Wind Damage
+@WP Winter Precip
+@HR Heavy Rain
+@FR Freezing Rain
+@SN Snow
+
+[WS] Box 11 - Max Wind Speed (MPH):
+[HA] Box 12 - Hail Size:
+[RN] Box 13 - Rain Amount:
+[SN] Box 14 - Snow Amount:
+
+? Box 15 - NWS Alert Level:
+@NW None
+@WA Watch
+@WR Warning
+@EM Emergency
+
+[NA] Box 16 - Narrative / Observed Impact:

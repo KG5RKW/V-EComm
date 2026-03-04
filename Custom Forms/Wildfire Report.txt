@@ -1,0 +1,90 @@
+Wildfire Status Report|
+
+
+[TO] Box 1 - Recipient:
+[FR] Box 2 - Sender:
+? Box 3 - Precedence:
+@R Routine
+@P Priority
+
+[DT] Box 4 - Date/Time (UTC):
+
+[FN] Box 5 - Fire Name / Designator:
+[ST] Box 6 - State:
+[CT] Box 7 - County:
+[CY] Box 8 - Nearest City / Area:
+[GR] Box 9 - Grid (4-char):
+[CO] Box 10 - Coordinates (Lat/Lon) (Optional):
+
+? Box 11 - Info Updated:
+@A Today
+@B 1 day ago
+@C 2 days ago
+@D 3 days ago
+@E More than 3 days / Unknown
+
+? Box 12 - Fire Size:
+@1 Under 100 acres
+@2 100 to 1,000 acres
+@3 1,000 to 10,000 acres
+@4 Over 10,000 acres
+@U Unknown
+
+? Box 13 - Percent Contained:
+@0 0%
+@1 10%
+@2 20%
+@3 30%
+@4 40%
+@5 50%
+@6 60%
+@7 70%
+@8 80%
+@9 90%
+@A 100%
+@U Unknown
+
+? Box 14 - Evacuation:
+@1 None
+@2 Ready / Prepare
+@3 Evacuate Now
+@U Unknown
+
+? Box 15 - Closures:
+@A Areas
+@R Roads
+@N None
+@U Unknown
+
+? Box 16 - Air Quality:
+@1 Good
+@2 Moderate
+@3 Unhealthy (Sensitive)
+@4 Unhealthy
+@5 Very Unhealthy
+@U Unknown
+
+? Box 17 - Critical Impacts:
+@P Power
+@W Water
+@R Roads
+@C Comms
+@H Health/Smoke
+@N None
+@U Unknown
+
+? Box 18 - Source Type:
+@L Local News
+@N National News
+@S Social Media
+@H Human INT
+@W Website
+@U Unknown
+
+? Box 19 - Source Trust:
+@T Trusted
+@U Untrusted
+@N Unknown
+
+
+[NA] Box 20 - Narrative / Actions / Notes:

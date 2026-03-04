@@ -1,0 +1,37 @@
+SITUATIONAL REPORT
+
+--------------------------------------------------
+[ REPORT INFO ]
+--------------------------------------------------
+
+[AA] Report Date/Time (UTC):
+[AB] Reporting Callsign:
+[AC] Location / Grid:
+[AD] Region / Area:
+
+--------------------------------------------------
+[ SITUATION SUMMARY ]
+--------------------------------------------------
+
+[AE] General Conditions:
+[AF] Infrastructure Status:
+[AG] Communications Status:
+[AH] Weather Conditions:
+[AI] Security / Safety Concerns:
+[AJ] Supply Issues:
+
+--------------------------------------------------
+[ ASSESSMENT ]
+--------------------------------------------------
+
+[AK] Operational Impact:
+[AL] Assistance Needed:
+[AM] Additional Remarks:
+
+--------------------------------------------------
+[ PREPARED BY ]
+--------------------------------------------------
+
+[AN] Operator Name:
+[AO] Callsign Confirmation:
+

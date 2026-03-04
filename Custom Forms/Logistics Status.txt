@@ -1,0 +1,37 @@
+LOGISTICS STATUS |
+
+
+--------------------------------------------------
+[ REPORT INFO ]
+--------------------------------------------------
+
+[AA] Report Date/Time (UTC):
+[AB] Reporting Callsign:
+[AC] Location / Grid:
+[AD] Operational Area:
+
+--------------------------------------------------
+[ RESOURCE STATUS ]
+--------------------------------------------------
+
+[AE] Fuel Status:
+[AF] Food Supply:
+[AG] Water Availability:
+[AH] Medical Supplies:
+[AI] Power Availability:
+[AJ] Communications Equipment:
+
+--------------------------------------------------
+[ SUSTAINMENT ]
+--------------------------------------------------
+
+[AK] Estimated Duration Remaining:
+[AL] Priority Needs:
+[AM] Resupply Required (Y/N):
+
+--------------------------------------------------
+[ REMARKS ]
+--------------------------------------------------
+
+[AN] Additional Notes:
+

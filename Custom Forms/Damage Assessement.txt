@@ -1,0 +1,39 @@
+DAMAGE ASSESSMENT |
+
+--------------------------------------------------
+[ REPORT INFO ]
+--------------------------------------------------
+
+[AA] Observation Date/Time (UTC):
+[AB] Reporting Callsign:
+[AC] Location / Grid:
+[AD] Area Description:
+
+--------------------------------------------------
+[ DAMAGE OBSERVED ]
+--------------------------------------------------
+
+[AE] Structure Damage:
+[AF] Roads / Access:
+[AG] Power / Utilities:
+[AH] Communications Impact:
+[AI] Injuries Observed (Y/N):
+[AJ] Emergency Services Present (Y/N):
+
+--------------------------------------------------
+[ SEVERITY ]
+--------------------------------------------------
+
+[AK] Damage Level:
+     (Minor / Moderate / Severe)
+
+[AL] Immediate Hazards:
+[AM] Access Restrictions:
+
+--------------------------------------------------
+[ NOTES ]
+--------------------------------------------------
+
+[AN] Additional Details:
+
+-------------------------------------------------

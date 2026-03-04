@@ -1,0 +1,84 @@
+
+
+MAGNET SitRep |
+
+! MAGNET Situation Report (SitRep), Revision 02/27/2025  visit www.magnethf.com
+. Use this form to report/update a situation/event in a specified location/region based on personal or reliable sources. Keep all free-form answers as brief as possible.
+
+!!! Instructions for TO/FROM:
+. To should be an operators, or @MAGNET, @MR01, etc. From should be your callsign.
+
+[TO] Box 1 - Recipient (TO):
+
+[FR] Box 2 - Sender (FROM):
+
+? Box 3 - Message Precedence:
+@R Routine
+@P Priority
+
+? Box 4 - Incident Status:
+@N New
+@O Ongoing
+@R Resolved
+@U Unknown
+
+? Box 5 - Category Impacted:
+@E Economy
+@P Politics
+@I Infrastructure
+@A Crime
+@T Terrorism
+@M Military Conflict
+@W Climate / Environment
+@H Health / Wellness
+@S Supply Chain
+@C Civil Unrest
+
+? Box 6 - News Source:
+@L Local News
+@N National News
+@I International News
+@H Human INT
+@S Social Media
+@W Website
+
+? Box 7 - Source Trust Level:
+@T Trusted
+@U Untrusted
+@N Unknown
+
+? Box 8 - Impacted Region:
+@1 MR01
+@2 MR02
+@3 MR03
+@4 MR04
+@5 MR05
+@6 MR06
+@7 MR07
+@8 MR08
+@9 MR09
+@0 MR10
+@A All Regions
+
+!!! Instructions for State, Country:
+. Enter the state as a two-characters abbreviation, and the country as a three-character abbreviation.
+
+[ST] Box 9 - State:
+
+[CC] Box 10 - Country:
+
+[GR] Box 11 - Grid:
+
+? Box 12 - Affected Area Size:
+@L Local
+@R Regional
+@N National
+@I International
+@U Unknown
+
+!!! Instructions for Narrative
+. Be as brief as possible, using telegram style wording. e.g. "POLITICAL UNRESET IS LEADING TO REPORTS OF LOOTING, RIOTING, AND MAJOR PROPERTY DAMAGE THROUGHOUT THE CITY. AUTHORITIES ARE WORKING TO RESTORE LAW AND ORDER THROUGH INCREASED POLICE PRESENCE THROUGHOUT THE CITY" would become "LOOTING RIOTS PROP DMG, ADDL POLICE DEPLOYED". Any information that is already covered by the form should NOT be repeated in the narrative.
+[NA] Box 13 - Narrative:
+
+[DT] Box 14 - Date/Time:
+
